@@ -1,0 +1,1 @@
+# drf_permission_authentication_homework_hard
